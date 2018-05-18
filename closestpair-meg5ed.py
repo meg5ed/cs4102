@@ -1,7 +1,6 @@
 # Mary Graham (meg5ed)
 # CS 4102 - Algorithms- S'18- Nate Brunelle
 # HW2 Due Friday February 16, 2018 at 11PM Via Collab
-# Collaborators: Parisa Roohafzaii 
 # Sources: Introduction to Algorithms 3rd edition Cormen et al.
 # Using Divide and Conquer Algorithm to find the closest pair of points in the n log n time 
 # 
