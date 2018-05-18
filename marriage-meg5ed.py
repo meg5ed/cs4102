@@ -1,10 +1,6 @@
 # Mary Graham (meg5ed)
-# Collaborators: Scott Miller(Fsm5yd) Alexus Ferguson (Alw3fk)
 # CS4102 Algorithms - S'18 -- Nate Brunelle
 # Due Wednesday May 9, 2018 at 11P via Collab
-# Sources: https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e
-# Sources: https://gist.github.com/econchick/4666413
-# Sources: https://www.python.org/doc/essays/graphs/
 
 from itertools import product
 import queue
