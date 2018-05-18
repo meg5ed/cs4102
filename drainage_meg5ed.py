@@ -3,8 +3,6 @@
 # HW5 Due Monday April 2, 2018 at 11PM Via Collab 
 # Sources: Introduction to Algorithms 3rd edition Cormen et al. 
 # Dynamic Programming CLRS Chapter 15 and memoized matrix (the grid) chain pg. 388
-# Source (2) : https://stackoverflow.com/questions/1988804/what-is-memoization-and-how-can-i-use-it-in-python
-# Source (2) is to better understand memoize and how to use 
 # Finding the longest path in grid aka drainage basin in a city. 
 # Return size of list aka the count of the longest path in a city. 
 
